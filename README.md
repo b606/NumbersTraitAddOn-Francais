@@ -1,6 +1,6 @@
 # Numbers Trait AddOn [Français]
 
-Numbers Trait AddOn [Français] offre la traduction française du mod &lt;b&gt;Numbers Trait AddOn&lt;/b&gt;.
+Numbers Trait AddOn [Français] offre la traduction française du mod **Numbers Trait AddOn** pour le jeu RimWorld.
 
 ### Liens
 
