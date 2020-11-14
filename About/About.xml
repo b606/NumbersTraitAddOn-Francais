@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Numbers Trait AddOn [Français]</name>
+	<author>b606</author>
+	<url>https://github.com/b606/NumbersTraitAddOn-Français</url>
+  <packageId>b606.NumbersTraitAddOn.Francais</packageId>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>telardo.NumbersTraitAddOn</packageId>
+      <displayName>Numbers Trait AddOn</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2068856562</steamWorkshopUrl>
+      <downloadUrl>https://github.com/</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+			<li>telardo.NumbersTraitAddOn</li>
+  </loadAfter>
+	<description>Numbers Trait AddOn [Français] offre la traduction française du mod &lt;b&gt;Numbers Trait AddOn&lt;/b&gt;.
+
+&lt;b&gt;Téléchargement&lt;/b&gt;
+GitHub : https://github.com/b606/NumbersTraitAddOn-Français/releases/latest
+
+&lt;b&gt;Autres mods&lt;/b&gt;
+EdB Prepare Carefully [Français]
+Traduction en français de EdB Prepare Carefully.
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081907934
+
+Parlez-vous français ? [LanguageWorker_French Mod]
+Mod optimisant le français dans tout le jeu de RimWorld.
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369
+
+Numbers [Français]
+Traduction française du mod &lt;b&gt;Numbers&lt;/b&gt; 
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2286691155
+
+&lt;b&gt;Pour m'encourager&lt;/b&gt;
+- une petite pouce approbatrice
+- j'adore aussi le kofi https://ko-fi.com/b606at0116
+  </description>
+</ModMetaData>
