@@ -19,7 +19,7 @@
   <loadAfter>
 			<li>telardo.NumbersTraitAddOn</li>
   </loadAfter>
-	<description>Numbers Trait AddOn [Français] offre la traduction française du mod &lt;b&gt;Numbers Trait AddOn&lt;/b&gt;.
+	<description>Numbers Trait AddOn [Français] offre la traduction française du mod &lt;b&gt;Numbers Trait AddOn&lt;/b&gt;. Il permet avec le mod &lt;b&gt;Numbers&lt;/b&gt; d'afficher une colonne visualisant les caractères des personnages du jeu avec des codes couleurs.
 
 &lt;b&gt;Téléchargement&lt;/b&gt;
 GitHub : https://github.com/b606/NumbersTraitAddOn-Francais/releases/latest
@@ -32,6 +32,10 @@ Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081907934
 Parlez-vous français ? [LanguageWorker_French Mod]
 Mod optimisant le français dans tout le jeu de RimWorld.
 Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369
+
+¿Habla usted español? [anguageWorker_Spanish Mod]
+Un mod para mejorar el español en RimWorld.
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2293997580
 
 Numbers [Français]
 Traduction française du mod &lt;b&gt;Numbers&lt;/b&gt; 

@@ -1,23 +1,32 @@
-[h2]Numbers Trait AddOn [Français][/h2]
+[h1]Numbers Trait AddOn [Français][/h1]
 
-Numbers Trait AddOn [Français] offre la traduction française du mod [b]Numbers Trait AddOn[/b].
+Numbers Trait AddOn [Français] offre la traduction française du mod [b]Numbers Trait AddOn[/b]. Il permet avec le mod [b]Numbers[/b] d'afficher une colonne visualisant les caractères des personnages du jeu avec des codes couleurs.
 
 [h3]Téléchargement[/h3]
 GitHub : https://github.com/b606/NumbersTraitAddOn-Francais/releases/latest
 
-[h3]Autres mods[/h3]
-[b]EdB Prepare Carefully [Français][/b]
-Traduction en français de EdB Prepare Carefully.
+[h1]Autres mods[/h1]
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2081907934][b]EdB Prepare Carefully [Français][/b][/url]
+Traduction en français de [b]EdB Prepare Carefully[/b].
 Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081907934
-
-[b]Parlez-vous français ? [LanguageWorker_French Mod][/b]
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369][b]Parlez-vous français ? [LanguageWorker_French Mod][/b][/url]
 Mod optimisant le français dans tout le jeu de RimWorld.
 Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369
-
-[b]Numbers [Français][/b]
-Traduction française du mod Numbers.
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img] 
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2293997580][b]¿Habla usted español? [anguageWorker_Spanish Mod][/b][/url]
+Un mod para mejorar el español en RimWorld.
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2293997580
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2286691155][b]Numbers [Français][/b][/url]
+Traduction française du mod [b]Numbers[/b] 
 Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2286691155
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
 
-[h3]Pour m'encourager[/h3]
-- une petite pouce approbatrice
-- j'adore aussi le kofi https://ko-fi.com/b606at0116
+[h1]Pour m'encourager[/h1]
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701581836390/34CBC07D7ED73B6282B3F7AF2E3D47BB462BF9B1/[/img]
+Une petite pouce approbatrice sur SteamWorkshop
+
+[url=https://ko-fi.com/Z8Z51KQ21][img]https://steamuserimages-a.akamaihd.net/ugc/1666857701581884648/E7A2C95176A59BCBE7159C8939B3C975F97B6B01/[/img][/url]
+J'adore aussi le kofi https://ko-fi.com/b606at0116
