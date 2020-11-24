@@ -1,5 +1,5 @@
 [h1]Numbers Trait AddOn [Français][/h1]
-
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
 Numbers Trait AddOn [Français] offre la traduction française du mod [b]Numbers Trait AddOn[/b]. Il permet avec le mod [b]Numbers[/b] d'afficher une colonne visualisant les caractères des personnages du jeu avec des codes couleurs.
 
 [h3]Téléchargement[/h3]
