@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>NumbersTraitAddOn[Français]</identifier>
+  <version>1.2.0</version>
+  <dependencies>
+      <li>NumbersTraitAddOn</li>
+  </dependencies>
+  <loadAfter>
+      <li>NumbersTraitAddOn</li>
+  </loadAfter>
+  <showCrossPromotions>true</showCrossPromotions>
+  <manifestUri>https://github.com/b606/NumbersTraitAddOn-Francais/raw/main/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/b606/NumbersTraitAddOn-Francais/releases/latest</downloadUri>
+</Manifest>
